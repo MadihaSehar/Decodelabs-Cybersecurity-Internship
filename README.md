@@ -14,8 +14,9 @@ decodelabs-cybersecurity-internship/
 ├── project-2-basic-encryption/
 │   ├── basic_encryption.py
 │   └── README.md
-├── project-3-.../
-│   └── ...
+├── project-3-phishing-awareness/
+│   ├── phishing_awareness_analyzer.py
+│   └── README.md
 ├── project-4-.../
 │   └── ...
 ├── project-5-.../
@@ -31,7 +32,7 @@ decodelabs-cybersecurity-internship/
 |---|---|---|---|---|
 | 1️⃣ | **[Password Strength Checker](./project-1-password-checker)** | Analyzes password complexity, strength score, and security criteria against common leak lists. | Python | 🟢 Completed |
 | 2️⃣ | **[Basic Encryption & Decryption](./project-2-basic-encryption)** | Implements Caesar & Vigenère symmetric ciphers for confidential data transformation. | Python | 🟢 Completed |
-| 3️⃣ | **Project 3** | *Upcoming Task* | - | ⏳ Pending |
+| 3️⃣ | **[Phishing Awareness Analysis](./project-3-phishing-awareness)** | Defensive triage engine detecting phishing indicators, BEC attacks, and malicious links. | Python | 🟢 Completed |
 | 4️⃣ | **Project 4** | *Upcoming Task* | - | ⏳ Pending |
 | 5️⃣ | **Project 5** | *Upcoming Task* | - | ⏳ Pending |
 
@@ -53,6 +54,10 @@ python password_strength_checker.py
 # Run Project 2
 cd ../project-2-basic-encryption
 python basic_encryption.py
+
+# Run Project 3
+cd ../project-3-phishing-awareness
+python phishing_awareness_analyzer.py
 ```
 
 ---
