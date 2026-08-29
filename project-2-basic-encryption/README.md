@@ -53,24 +53,6 @@ Enhances security by shifting each character using the positional value of a rep
 
 ---
 
-## 📊 Sample Output (Caesar Cipher)
-```text
-=== DecodeLabs Encryption & Decryption Tool ===
-1. Caesar Cipher (fixed shift key)
-2. Vigenère Cipher (keyword-based, bonus)
-Choose an option (1 or 2): 1
-Enter the text to encrypt: DecodeLabs Cyber Security 2026!
-Enter a shift key (1-25): 5
 
-=============================================
-Caesar Cipher Result
-=============================================
-Original text   : DecodeLabs Cyber Security 2026!
-Shift key       : 5
-Encrypted text  : IjhtijQfgt Hdgjw Xjhzwnyd 2026!
-Decrypted text  : DecodeLabs Cyber Security 2026!
-Round-trip OK?  : True
-=============================================
-```
 Result:
 <img width="1293" height="454" alt="image" src="https://github.com/user-attachments/assets/59a4464d-1f3c-4606-a48b-f93fad1196b4" />
