@@ -17,8 +17,9 @@ decodelabs-cybersecurity-internship/
 ├── project-3-phishing-awareness/
 │   ├── phishing_awareness_analyzer.py
 │   └── README.md
-├── project-4-.../
-│   └── ...
+├── project-4-vulnerability-checklist/
+│   ├── vulnerability_checklist.py
+│   └── README.md
 ├── project-5-.../
 │   └── ...
 └── README.md
@@ -33,7 +34,7 @@ decodelabs-cybersecurity-internship/
 | 1️⃣ | **[Password Strength Checker](./project-1-password-checker)** | Analyzes password complexity, strength score, and security criteria against common leak lists. | Python | 🟢 Completed |
 | 2️⃣ | **[Basic Encryption & Decryption](./project-2-basic-encryption)** | Implements Caesar & Vigenère symmetric ciphers for confidential data transformation. | Python | 🟢 Completed |
 | 3️⃣ | **[Phishing Awareness Analysis](./project-3-phishing-awareness)** | Defensive triage engine detecting phishing indicators, BEC attacks, and malicious links. | Python | 🟢 Completed |
-| 4️⃣ | **Project 4** | *Upcoming Task* | - | ⏳ Pending |
+| 4️⃣ | **[System Vulnerability Checklist](./project-4-vulnerability-checklist)** | Endpoint audit tool generating 4-step system vulnerability reports across Windows/macOS. | Python | 🟢 Completed |
 | 5️⃣ | **Project 5** | *Upcoming Task* | - | ⏳ Pending |
 
 ---
@@ -58,6 +59,10 @@ python basic_encryption.py
 # Run Project 3
 cd ../project-3-phishing-awareness
 python phishing_awareness_analyzer.py
+
+# Run Project 4
+cd ../project-4-vulnerability-checklist
+python vulnerability_checklist.py
 ```
 
 ---
