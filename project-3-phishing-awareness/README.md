@@ -54,23 +54,7 @@ The triage engine screens messages across 8 key risk vectors:
 4. Choose `1` to test built-in sample phishing/BEC emails, or `2` to analyze a custom email message.
 
 ---
+RESULT:
+<img width="1306" height="463" alt="image" src="https://github.com/user-attachments/assets/c70e9365-a177-4451-8c7b-304b32c6bd47" />
 
-## 📊 Sample Output
-```text
-=======================================================
-Phishing Triage Report: Sample 1 - Fake IT password reset
-=======================================================
-Verdict        : Malicious
-Risk score     : 14
-Recommended action: Block & Escalate
--------------------------------------------------------
-Red flags found:
-  • Urgency/pressure language: immediately, account suspended, expires in
-  • Authority impersonation language: it security
-  • Requests sensitive info: password
-  • Generic greeting (mass-phishing signal): dear customer
-  • Suspicious link pattern detected: matches 'bit\.ly'
-  • Possible brand impersonation / lookalike domain: 'logins-updates.com'
-  • Dangerous attachment type: 'Security_Update_2024.iso'
-=======================================================
 ```
