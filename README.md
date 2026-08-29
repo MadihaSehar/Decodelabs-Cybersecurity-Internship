@@ -11,8 +11,9 @@ decodelabs-cybersecurity-internship/
 ├── project-1-password-checker/
 │   ├── password_strength_checker.py
 │   └── README.md
-├── project-2-hashing-encryption/
-│   └── ...
+├── project-2-basic-encryption/
+│   ├── basic_encryption.py
+│   └── README.md
 ├── project-3-.../
 │   └── ...
 ├── project-4-.../
@@ -28,8 +29,8 @@ decodelabs-cybersecurity-internship/
 
 | # | Project Name | Description | Tech Stack | Status |
 |---|---|---|---|---|
-| 1️⃣ | **Password Strength Checker** | Analyzes password complexity, strength score, and security criteria. | Python | 🟢 Completed |
-| 2️⃣ | **Project 2** | *Upcoming Task* | - | ⏳ Pending |
+| 1️⃣ | **[Password Strength Checker](./project-1-password-checker)** | Analyzes password complexity, strength score, and security criteria against common leak lists. | Python | 🟢 Completed |
+| 2️⃣ | **[Basic Encryption & Decryption](./project-2-basic-encryption)** | Implements Caesar & Vigenère symmetric ciphers for confidential data transformation. | Python | 🟢 Completed |
 | 3️⃣ | **Project 3** | *Upcoming Task* | - | ⏳ Pending |
 | 4️⃣ | **Project 4** | *Upcoming Task* | - | ⏳ Pending |
 | 5️⃣ | **Project 5** | *Upcoming Task* | - | ⏳ Pending |
@@ -41,11 +42,17 @@ decodelabs-cybersecurity-internship/
 ### Prerequisites
 - Python 3.x installed on your system.
 
-### How to Run
-Navigate to any project directory and run the python script:
+### How to Run Any Project
+Navigate to the desired project directory and execute the main Python file:
+
 ```bash
+# Run Project 1
 cd project-1-password-checker
 python password_strength_checker.py
+
+# Run Project 2
+cd ../project-2-basic-encryption
+python basic_encryption.py
 ```
 
 ---
