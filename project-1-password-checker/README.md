@@ -40,25 +40,14 @@ The **Password Strength Checker** is a Python utility designed to evaluate the s
 
 ---
 
-## 📊 Sample Output
-```text
-=============================================
-Password Strength Report
-=============================================
-Length            : 14
-Uppercase letter  : Yes
-Lowercase letter  : Yes
-Digit             : Yes
-Symbol            : Yes
-Common/leaked     : No
----------------------------------------------
-STRENGTH: STRONG
----------------------------------------------
-Feedback:
-  • Looks good! No issues detected.
-
 RESULT:
-<img width="1214" height="458" alt="image" src="https://github.com/user-attachments/assets/5d4ba8a4-2229-4f7a-9924-2b5b82a471eb" />
+<img width="1214" height="458" alt="image" src="https://github.com/user-attachments/assets/c6cef7c8-78b2-4e32-b9ca-1c3324479ad7" />
+
+
+
+
+
+
 
 
 =============================================
