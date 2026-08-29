@@ -57,7 +57,9 @@ STRENGTH: STRONG
 Feedback:
   • Looks good! No issues detected.
 
-RESULT:<img width="1214" height="458" alt="image" src="https://github.com/user-attachments/assets/4848ebce-0601-43fa-a202-ae8c17651d9c" />
+RESULT:
+<img width="1214" height="458" alt="image" src="https://github.com/user-attachments/assets/5d4ba8a4-2229-4f7a-9924-2b5b82a471eb" />
+
 
 =============================================
 ```
