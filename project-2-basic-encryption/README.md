@@ -72,3 +72,5 @@ Decrypted text  : DecodeLabs Cyber Security 2026!
 Round-trip OK?  : True
 =============================================
 ```
+Result:
+<img width="1293" height="454" alt="image" src="https://github.com/user-attachments/assets/59a4464d-1f3c-4606-a48b-f93fad1196b4" />
